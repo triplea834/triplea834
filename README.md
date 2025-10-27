@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-🌱 I’m currently learning **Back-End Web Development** through the ALX SE Program.  
+🌱 Graduated from the **Back-End Web Development** course through the ALX SE Program.  
 💡 My journey into **Software Engineering** began with a fascination for how technology powers everyday life.  
 🔥 I am particularly passionate about:  
 - Writing efficient and scalable server-side applications  
